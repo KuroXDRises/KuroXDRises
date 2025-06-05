@@ -3,6 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
 
+
 - 🔭 I’m currently working on: **Telegram Game Bots & AuthNex**
 - 🌱 I’m learning: **Advanced Pyrogram, MongoDB, FastAPI**
 - 👯 I’m open to collaborate on: **Open-source Telegram projects**
