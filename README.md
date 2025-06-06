@@ -3,7 +3,7 @@
 
 ---
 
-<img align="right" width="400" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+<img align="right" width="400" src="https://pin.it/6DTU7yPG4" />
 
 ## 🧠 Who Am I?
 
