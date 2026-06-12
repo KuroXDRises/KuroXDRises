@@ -1,95 +1,136 @@
-<img src="https://files.catbox.moe/k2b8yi.jpg">
+<img src="https://iili.io/CCXapa9.jpg">
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=4000&pause=800&color=FACC15&center=true&vCenter=true&width=800&lines=%F0%9D%97%98%F0%9D%97%BC%F0%9D%97%B2%F0%9D%98%81%F0%9D%97%BA%F0%9D%97%B2+%F0%9D%9F%93%F0%9D%9F%96+Rises+%F0%9F%92%A5;Dark+Mind+Sharp+Code;No+Noise,+Just+Results.">
+  Kuro Raijin ⚡
 </h1>
 
-
-
 <p align="center">
-  <img src="https://img.shields.io/badge/⚔️%20-CODER%20IN%20SHADOWS-black?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/🧠%20-THINKER-darkred?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/⚡%20-STORMBREED%20MIND-blue?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=FACC15&center=true&vCenter=true&width=800&lines=Building+Ideas+Into+Reality;Python+Developer;Telegram+Bot+Developer;Game+Systems+Designer;Always+Learning.">
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-Developer-black?style=for-the-badge&logo=python" />
+  <img src="https://img.shields.io/badge/Telegram-Bots-0088cc?style=for-the-badge&logo=telegram" />
+  <img src="https://img.shields.io/badge/MongoDB-Database-13AA52?style=for-the-badge&logo=mongodb" />
+</p>
 
+---
 
-## 🕶️ Who is **KuroXDRises**?
-
-> _"A man who loves anyone and gets pain in return."_  
-> — **Kuro**
+## 👋 About Me
 
 ```python
-class KuroXDRises:
-    origin = "India"
-    mindset = "Build Silently. Shock Loudly."
-    skills = ["Python", "Telegram Bots", "AI Integrations", "Dark UX"]
-    vibe = "⚡ Controlled Chaos"
-    style = "Minimal. Clean. Lethal."
+class KuroRaijin:
+    location = "India"
+
+    interests = [
+        "Backend Development",
+        "Telegram Bots",
+        "Game Design",
+        "Automation"
+    ]
+
+    philosophy = (
+        "Build. Improve. Repeat."
+    )
 ```
 
+I enjoy creating systems that are simple to use, easy to maintain, and enjoyable to build.
 
-⚡ My Code Isn’t Everywhere
+Most of my work revolves around:
 
-But My Imprint Is
+- 🤖 Telegram Bots
+- 🦠 Multiplayer Social Deduction Games
+- ⚽ Football Management Systems
+- 🗄️ Backend Architecture
+- 🔧 Automation Tools
 
-I don’t flood GitHub with projects.
-I don’t chase stars or fake hype.
-But if you’ve seen my work,
-you know what ⚔ mastery looks like.
+---
 
+## 🛠 Tech Stack
 
+### Languages
 
+```text
+Python
+JavaScript
+SQL
+```
 
-🔧 Code Like a Blade
+### Frameworks & Libraries
 
-My syntax cuts like a katana
+```text
+Pyrogram
+FastAPI
+Flask
+Asyncio
+```
 
-My functions are lean, like shadow warriors
+### Databases
 
-I use less to do more
+```text
+MongoDB
+SQLite
+```
 
-Every utility I build has one goal: DOMINATE
+### Tools
 
+```text
+Git
+Linux
+Termux
+VS Code
+```
 
+---
 
+## 📊 Current Focus
 
+```text
+🦠 Parasyte
+⚽ Football Manager Project
+🤖 Telegram Ecosystem
+🔧 Scalable Backend Systems
+```
 
-🛠️ Techs That Flow in My Blood
+---
 
-    
+## 🎯 Development Principles
 
+✓ Keep it simple
 
+✓ Write readable code
 
+✓ Build reusable systems
 
-🧿 Kuro’s Code Principles
+✓ Focus on functionality first
 
-✅ No unnecessary imports
-✅ No junk variables
-✅ No bloated logic
-✅ Every line earns its place
-✅ Style = Silence + Precision
+✓ Improve continuously
 
+---
 
+## 📈 Status
 
+```text
+Learning      ██████████
+Building      ██████████
+Debugging     ██████████
+Sleeping      ███░░░░░░░
+```
 
-📡 Connect with Me
+---
+
+## 📡 Connect
 
 <p align="center">
-  <a href="https://t.me/KuroXDRises"><img src="https://img.shields.io/badge/Telegram-%40KuroXDRises-0088cc?style=for-the-badge&logo=telegram" /></a>
-  <a href="mailto:kuroxdrises@gmail.com"><img src="https://img.shields.io/badge/Gmail-kuroxdrises%40gmail.com-D14836?style=for-the-badge&logo=gmail" /></a>
+  <a href="https://t.me/KuroXDRises">
+    <img src="https://img.shields.io/badge/Telegram-@KuroXDRises-0088cc?style=for-the-badge&logo=telegram">
+  </a>
 </p>
 
+---
 
-💬 Final Words
-
-> Code never lies comments sometime do.”
-
-
-
-Stay low. Code strong.
-– KuroXDRises
-
+> "Every project starts as an idea. Every skill starts as practice."
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&text=Code%20with%20Shadow%20Strike&fontAlign=50&fontAlignY=40&color=gradient" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=150&text=Kuro%20Raijin&fontAlign=50&fontAlignY=40&color=gradient" />
 </p>
